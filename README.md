@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pedro Carvalho Borges
+# 👨🏽‍💻 João Pedro Carvalho Borges
 
 **`Desenvolvedor FullStack`**
 
