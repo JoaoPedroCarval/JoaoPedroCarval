@@ -2,7 +2,8 @@
 
 **`Software Engineering Student`**
 
-Me chamo João Pedro Carvalho Borges, tenho 18 anos e sou natural de Goiás. Concluí o ensino médio no CEPI Gricon e Silva. Atualmente, estou cursando Engenharia de Software na UniEvangélica - Campus Anápolis. Sou apaixonado por tecnologia e resolver problemas. Transformando ideias em código. Sempre aberto a colaborações. Sempre buscando aprender mais e mais.
+Me chamo João Pedro Carvalho Borges, tenho 19 anos e sou natural de Goiás. Estou cursando Engenharia de Software na UniEvangélica - Campus Anápolis. 
+Sou apaixonado por tecnologia e resolver problemas. Transformando ideias em código. Sempre aberto a colaborações. Sempre buscando aprender mais e mais.
 
 ---
 
