@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia e resolver problemas. Transformando ideias em cód
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
