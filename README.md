@@ -6,7 +6,7 @@ Me chamo João Pedro Carvalho Borges, tenho 18 anos e sou natural de Goiás. Con
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo João Pedro Carvalho Borges, tenho 18 anos e sou natural de Goiás. Con
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
